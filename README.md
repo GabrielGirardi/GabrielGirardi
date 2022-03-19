@@ -1,4 +1,4 @@
-<h1 align='center'> Hello Guys! my name is Gabriel, but they call me GG - Welcome to my profile! 👋 </h1>
+<h1 align='center'> Hello Guys! You can call me GG - Welcome to my profile! 👋 </h1>
 
 <br>
 
