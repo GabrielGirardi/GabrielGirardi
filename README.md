@@ -9,16 +9,15 @@
 
 </br>
  
-<h2 align='center'> Languages and IDEs </h2>
+<h2 align='center'> Languages </h2>
  
- <div align='center'>
+<div align='center'>
  
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-  badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
  
 </div>
  
@@ -36,6 +35,6 @@
  </a
 
  <a href="https://www.instagram.com/gabriell_girardii/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-blueviolet?style=for-the-badge&logo=twitter&logoColor=white">
+  <img src="https://img.shields.io/badge/-Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white">
  </a>
 </p>
