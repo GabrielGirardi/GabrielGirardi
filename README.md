@@ -100,16 +100,16 @@
 <h2 align='center'> Social Media </h2>
 
 <p align='center'>
- <a href = "https://www.linkedin.com/in/gabriel-girardi-90358820a/" target="_blank">
+ <a href="https://www.linkedin.com/in/gabriel-girardi-90358820a/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
  </a>
  
- <a href = "gabriel.girardi@magazord.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" />
+ <a href="gabriel.girardi@magazord.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"/>
  </a
-
- <a href="https://www.instagram.com/gabriell_girardii/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white">
+  
+ <a href="https://www.instagram.com/gabriell_girardii/" target="_blank" >
+  <img src="https://img.shields.io/badge/-Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
 </p>
 
