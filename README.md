@@ -45,6 +45,10 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
+  <a href="https://www.w3schools.com/js/" target="_blank">
+    <img alt="js" src="https://img.shields.io/badge/JavaScript%20-%231572B6.svg?logo=JavaScript3&logoColor=white">
+  </a> 
+   &emsp;
   <a href="https://sass-lang.com" target="_blank"> 
     <img alt="sass" src="https://img.shields.io/badge/sass-%23563D7C.svg?style=flat&logo=sass&logoColor=white"/>
   </a>
