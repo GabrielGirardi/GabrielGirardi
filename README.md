@@ -42,16 +42,20 @@
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/Css%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
   <a href="https://www.w3schools.com/js/" target="_blank">
-    <img alt="js" src="https://img.shields.io/badge/JavaScript%20-%231572B6.svg?logo=JavaScript3&logoColor=white">
+    <img alt="js" src="https://img.shields.io/badge/-Javascript-yellow?style=plastic&logo=javascript">
   </a> 
    &emsp;
   <a href="https://sass-lang.com" target="_blank"> 
-    <img alt="sass" src="https://img.shields.io/badge/sass-%23563D7C.svg?style=flat&logo=sass&logoColor=white"/>
+    <img alt="sass" src="https://img.shields.io/badge/Scss-%23563D7C.svg?style=flat&logo=sass&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/-php-purple?style=plastic&logo=php">
+  </a>  
 </p>
 
 <!--LINE-->
@@ -94,6 +98,12 @@
   &emsp;
  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-grey?style=plastic&logo=figma"></a>
+  &emsp;
+  <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-purple?style=plastic&logo=phpstorm"></a>
+  &emsp;
+   <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql"></a>
+  &emsp;
 </p>
  <br/>
  
@@ -115,7 +125,6 @@
  
  <a href="gabriel.girardi@magazord.com.br" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"/>
- </a>
-  
+ </a>  
   </p>
 
