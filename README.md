@@ -12,7 +12,7 @@
 
  <!--LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" style="width: 1000px;" height="20" width="1000"> 
 <br>
 
 - 🔭 I’ve been working at [Magazord](https://github.com/magazord-plataforma) as Front-end 
