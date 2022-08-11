@@ -24,9 +24,9 @@
 </br>
 
 <!--LINE-->
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
- 
+<p align="center" style="overflow: hidden;">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000" style="width: 100%;"> 
+
  <br/>
 
  <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
