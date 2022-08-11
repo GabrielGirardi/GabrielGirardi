@@ -10,31 +10,19 @@
     </a>
 </h1>
 
-<!--LINE-->
-<p align="center">
-    <img src="https://i.imgur.com/dBaSKWF.gif" style="width: 1000px;" height="20" width="1000">
-    <br>
-
     - 🔭 I’ve been working at [Magazord](https://github.com/magazord-plataforma) as Front-end
     - 🌱 I’ve been studying Information Systems!
     - 💬 Ask me about Games
     - 😄 Nicknames: GG and Biel
     - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-    </br>
+<br>
 
-    <!--LINE-->
-<p align="center" style="overflow: hidden;">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000" style="width: 100%;">
-</p>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-    <br/>
+## 🛠️ My Skills
 
-    <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-    ## 🛠️ My Skills
-
-    ### 👉 Frontend Development
+### 👉 Frontend Development
 
 <p align="left">
     &emsp;
@@ -59,12 +47,7 @@
     </a>
 </p>
 
-<!--LINE-->
-<p align="center" style="overflow: hidden;">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000" style="width: 100%;">
-</p>
-
-    ### 👉 Graphic Designing
+### 👉 Graphic Designing
 <p align="left">
     &emsp;
 
@@ -89,11 +72,7 @@
     </a>
 </p>
 
-<!--LINE-->
-<p align="center" style="overflow: hidden;">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000" style="width: 100%;">
-</p>
-    ### 👉 Software & Tools
+### 👉 Software & Tools
 
 <p align='left'>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -108,11 +87,6 @@
     &emsp;
 </p>
 <br/>
-
-<!--LINE-->
-<p align="center" style="overflow: hidden;">
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000" style="width: 100%;">
-</p>
 
 <h2 align='center'> Social Media </h2>
 
