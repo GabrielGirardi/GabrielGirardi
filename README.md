@@ -13,8 +13,9 @@
     - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
     
 <br/>
-
-<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<div  align="center">
+    <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</div>
 
 <h2> 🛠️ My Skills <h2>
 
