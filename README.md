@@ -19,7 +19,7 @@
 
 <h2> 🛠️ My Skills <h2>
 
-    <h3> 👉 Frontend Development </h3>
+ 👉 Frontend Development 
 
 <div>
     <a href="https://www.w3.org/html/" target="_blank">
