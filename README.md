@@ -1,27 +1,40 @@
-<!--HELLO EVERYBODY -->
+<!-- Introduction -->
 
 <h1 align="center">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;" alt="World"/>
     𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" alt="Shake Hand"/>
 </h1>
 
-    - 🔭 I’ve been working at [Magazord](https://github.com/magazord-plataforma) as Front-end
-    - 🌱 I’ve been studying Information Systems!
-    - 💬 Ask me about Games
-    - 😄 Nicknames: GG and Biel
-    - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+<ul>
+    <li>
+        <p>😄 In love with programmation</p>
+    </li>
+    <li>
+        <p>🔭 I’ve been working at <a href="https://github.com/magazord-plataforma">Magazord</a> as Front-end</p>
+    </li>
+    <li>
+        <p>🌱 I’ve been studying Information Systems at <cite>UNIDAVI<cite>!</p>
+    </li>
+    <li>
+        <p>💬 Ask me about Games or Technologies!</p>
+    </li>
+    <li>
+        <p>💪🏼 Future Goals: Learn more technologies - <i>Never stop creating new ideas.</i></p>
+    </li>
+</ul>
     
 <br/>
+
 <div  align="center">
-    <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+    <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Programmer"/>
 </div>
 
-<h2> 🛠️ My Skills <h2>
+<h2 align="center">🛠️ _- My Skills -_ 🛠️</h2>
 
- 👉 Frontend Development 
+<h3 align="center"> Languages <h3> 
 
-<div>
+<div align="center">
     <a href="https://www.w3.org/html/" target="_blank">
         <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
     </a>
@@ -34,13 +47,13 @@
     <a href="https://sass-lang.com" target="_blank">
         <img alt="sass" src="https://img.shields.io/badge/Scss-%23563D7C.svg?style=flat&logo=sass&logoColor=white"/>
     </a>
-    <a href="https://www.php.net/">
-        <img src="https://img.shields.io/badge/-php-purple?style=plastic&logo=php">
+    <a href="https://www.php.net/" target="_blank">
+        <img alt="php" src="https://img.shields.io/badge/-php-purple?style=plastic&logo=php">
     </a>
 </div>
 
-<h3> 👉 Graphic Designing </h3>
-<div>
+<h3 align="center"> Graphic Designing </h3>
+<div align="center">
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
         <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
     </a>
@@ -53,19 +66,28 @@
     <a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
         <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
     </a>
-    <a href="#">
+    <a href="https://www.canva.com/pt_br/">
         <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
     </a>
 </div>
 
-<h3> 👉 Software & Tools </h3>
+<h3 align="center"> Software & Tools </h3>
 
-<div>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-grey?style=plastic&logo=figma"></a>
-    <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-purple?style=plastic&logo=phpstorm"></a>
+<div align="center">
+    <a href="https://www.canva.com/pt_br/">
+        <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+    </a>
+    <a href="https://code.visualstudio.com">
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    </a>
+    <a href="https://www.figma.com">
+        <img alt="Figma" src="https://img.shields.io/badge/-Figma-grey?style=plastic&logo=figma">
+    </a>
+    <a href="http://www.jetbrains.com/phpstorm/">
+        <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-purple?style=plastic&logo=phpstorm">
+    </a>
 </div>
+
 <br/>
 
 <h2 align="center"> Social Media </h2>
@@ -81,4 +103,6 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"/>
     </a>
 </div>
+
+<hr/>
 
