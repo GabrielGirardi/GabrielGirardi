@@ -17,17 +17,17 @@
         <p>🌱 I’ve been studying Information Systems at <cite>UNIDAVI<cite>!</p>
     </li>
     <li>
-        <p>💬 Ask me about Games or Technologies!</p>
+        <p>💬 Ask me about Technologies, Movies or games!</p>
     </li>
     <li>
-        <p>💪🏼 Future Goals: Learn more technologies - <i>Never stop creating new ideas.</i></p>
+        <p>💪🏼 Future Goals: Become a Full-Stack Developer - <i>Never stop creating new ideas!</i></p>
     </li>
 </ul>
     
 <br/>
 
 <div  align="center">
-    <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Programmer"/>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Programmer"/>
 </div>
 
 <h2 align="center">🛠️ _- My Skills -_ 🛠️</h2>
@@ -50,6 +50,12 @@
     <a href="https://www.php.net/" target="_blank">
         <img alt="php" src="https://img.shields.io/badge/-php-purple?style=plastic&logo=php">
     </a>
+    <a href="https://www.java.com" target="_blank">
+        <img alt="java" src="https://img.shields.io/badge/-java-yellow?style=plastic&logo=java">
+    </a>
+    <a href="https://nodejs.org" target="_blank">
+        <img alt="node" src="https://img.shields.io/badge/-node.js-lightgreen?style=plastic&logo=node.js">
+    </a>
 </div>
 
 <h3 align="center"> Graphic Designing </h3>
@@ -69,6 +75,9 @@
     <a href="https://www.canva.com/pt_br/">
         <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
     </a>
+    <a href="https://www.figma.com">
+        <img alt="Figma" src="https://img.shields.io/badge/-Figma-grey?style=plastic&logo=figma">
+    </a>
 </div>
 
 <h3 align="center"> Software & Tools </h3>
@@ -80,11 +89,21 @@
     <a href="https://code.visualstudio.com">
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     </a>
-    <a href="https://www.figma.com">
-        <img alt="Figma" src="https://img.shields.io/badge/-Figma-grey?style=plastic&logo=figma">
-    </a>
     <a href="http://www.jetbrains.com/phpstorm/">
         <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-purple?style=plastic&logo=phpstorm">
+    </a>
+     <a href="http://www.jetbrains.com">
+        <img alt="jetBrains" src="https://img.shields.io/badge/-jetbrains-black?style=plastic&logo=jetbrains">
+    </a>
+    <br/>
+    <a href="https://elementary.io" target="_blank">
+        <img alt="linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
+    </a>
+     <a href="https://aws.amazon.com" target="_blank">
+        <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    </a>
+    <a href="https://www.docker.com" target="_blank">
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     </a>
 </div>
 
@@ -99,10 +118,13 @@
     <a href="www.linkedin.com/in/ggirardii" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/>
     </a>
-    <a href="mailto:gabriel.girardi@magazord.com.br" target="_blank">
+    <a href="mailto:gabrielgirardi2811@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"/>
     </a>
 </div>
 
 <hr/>
+    
+<h2> Statistic </h2>
 
+[![card](https://github-readme-stats.vercel.app/api?username=GabrielGirardi&theme=default)](https://github.com/GabrielGirardi/)
