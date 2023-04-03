@@ -106,7 +106,18 @@
         <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     </a>
 </div>
-
+    
+<br/>
+    
+<div align="center">
+    <p align="centre">
+        <b>Contador de visitas</b>
+    </p>  
+    <p align="center">
+        <img align="center" src="https://profile-counter.glitch.me/GabrielGirardi/count.svg"/>
+    </p> 
+</div>
+    
 <br/>
 
 <h2 align="center"> Social Media </h2>
