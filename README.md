@@ -8,7 +8,7 @@
 
 <ul>
     <li>
-        <p>😄 In love with programmation</p>
+        <p>😄 In love with programming</p>
     </li>
     <li>
         <p>🔭 I’ve been working at <a href="https://github.com/magazord-plataforma">Magazord</a> as Front-end</p>
