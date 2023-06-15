@@ -14,7 +14,7 @@
         <p>🔭 I’ve been working at <a href="https://github.com/magazord-plataforma">Magazord</a> as Front-end</p>
     </li>
     <li>
-        <p>🌱 I’ve been studying Information Systems at <cite>UNIDAVI<cite>!</p>
+        <p>🌱 I’ve been studying Information Systems at <cite>Uniasselvi<cite>!</p>
     </li>
     <li>
         <p>💬 Ask me about Technologies, Movies or games!</p>
