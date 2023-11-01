@@ -16,7 +16,7 @@
         <p>😄 In love with programming</p>
     </li>
     <li>
-        <p>🔭 I’ve been working at <a href="https://github.com/magazord-plataforma">Magazord</a> as Front-end</p>
+        <p>🔭 I’m a Front-end Developer</p>
     </li>
     <li>
         <p>🌱 I’ve been studying IS at <cite>Uniasselvi<cite>!</p>
