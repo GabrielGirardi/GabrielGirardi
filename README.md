@@ -40,9 +40,6 @@
 <h3 align="center"> Languages <h3> 
 
 <div align="center">
-    <a href="https://www.java.com" target="_blank">
-        <img alt="Java" src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=oracle&logoColor=white">
-    </a>
     <a href="https://www.w3.org/html/" target="_blank">
         <img alt="HTML" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
     </a>
@@ -52,17 +49,26 @@
     <a href="https://sass-lang.com" target="_blank">
         <img alt="Sass" src="https://img.shields.io/badge/Scss-purple?style=for-the-badge&logo=sass&logoColor=white">
     </a>
+    <a href="https://tailwindcss.com" target="_blank">
+        <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    </a>
     <a href="https://www.w3schools.com/js/" target="_blank">
         <img alt="JS" src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+    </a>
+     <a href="https://react.dev/" target="_blank">
+        <img alt="ReactJS" src="https://img.shields.io/badge/React.js-lightblue?style=for-the-badge&logo=react&logoColor=white">
     </a>
     <a href="https://www.php.net/" target="_blank">
         <img alt="Php" src="https://img.shields.io/badge/Php-purple?style=for-the-badge&logo=php&logoColor=white">
     </a>
-    <a href="https://www.vuemastery.com/" target="_blank">
-        <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-lightgreen?style=for-the-badge&logo=vue.js&logoColor=white">
+    <a href="https://nodejs.org/en" target="_blank">
+        <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-green?style=for-the-badge&logo=node.js&logoColor=white">
     </a>
      <a href="https://www.postgresql.org/" target="_blank">
         <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-purple?style=for-the-badge&logo=postgresql&logoColor=white">
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white">
     </a>
 </div>
 
@@ -76,9 +82,6 @@
     </a>
     <a href="https://www.adobe.com/in/products/indesign.html" target="_blank">
         <img alt="Adobe Indesign" src="https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-    </a>
-    <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank">
-        <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Lightroom-lightblue?style=for-the-badge&logo=adobelightroom&logoColor=white">
     </a>
     <a href="https://www.canva.com/pt_br/">
         <img alt="Canva" src="https://img.shields.io/badge/Canva-white?style=for-the-badge&logo=canva&logoColor=blue">
