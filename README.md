@@ -24,9 +24,6 @@
     <li>
         <p>💬 Ask me about Technologies, Movies or games!</p>
     </li>
-    <li>
-        <p>💪🏼 Future Goals: Become a Full-Stack Developer</p>
-    </li>
 </ul>
     
 <br/>
