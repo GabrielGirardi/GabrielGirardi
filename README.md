@@ -61,6 +61,9 @@
     <a href="https://nodejs.org/en" target="_blank">
         <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-green?style=for-the-badge&logo=node.js&logoColor=white">
     </a>
+     <a href="https://www.python.org/" target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow">
+    </a>
      <a href="https://www.postgresql.org/" target="_blank">
         <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-purple?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
