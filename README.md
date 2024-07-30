@@ -16,7 +16,7 @@
         <p>😄 In love with programming</p>
     </li>
     <li>
-        <p>🔭 I’m a Front-end Developer</p>
+        <p>🔭 I’m a Fullstack Developer</p>
     </li>
     <li>
         <p>🌱 I’ve been studying IS at <cite>Uniasselvi<cite>!</p>
